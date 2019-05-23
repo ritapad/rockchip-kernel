@@ -1,4 +1,5 @@
 /*
+ *
  * tc35874x - Toshiba HDMI to CSI-2 bridge - register names and bit masks
  *
  * Copyright 2015 Cisco Systems, Inc. and/or its affiliates. All rights
