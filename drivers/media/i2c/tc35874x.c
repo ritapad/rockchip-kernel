@@ -1,4 +1,6 @@
 /*
+ * Ritapad Modified:
+ *
  * tc35874x - Toshiba HDMI to CSI-2 bridge
  *
  * Copyright 2015 Cisco Systems, Inc. and/or its affiliates. All rights
